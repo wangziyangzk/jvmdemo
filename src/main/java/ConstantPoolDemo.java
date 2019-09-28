@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+** 常量池溢出模拟
+ */
 public class ConstantPoolDemo {
 
     public static void main(String[] args) {

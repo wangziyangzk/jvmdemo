@@ -5,6 +5,7 @@ import org.springframework.cglib.proxy.MethodProxy;
 import java.lang.reflect.Method;
 
 /*
+ **  方法区溢出模拟
  **  -XX:PermSize=10M -XX:MaxPermSize=10M
  */
 public class MethodAreaDemo {
